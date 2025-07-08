@@ -1,4 +1,5 @@
 # Loading necessary packages to build UI. 
+#BACAppPrototype
 library(shiny)
 library(bs4Dash) # Extra UI components. 
 library(shinyWidgets)
